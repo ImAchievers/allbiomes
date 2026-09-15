@@ -1,0 +1,14 @@
+# build artifacts
+*.o
+*.exe
+allbiomes
+
+# run output
+allbiomes_results.txt
+allbiomes_checkpoint.txt
+
+# archives / editor / OS junk
+*.zip
+*.swp
+.DS_Store
+Thumbs.db
